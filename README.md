@@ -26,11 +26,6 @@
     
     查找网址为 https://m.client.10010.com/mobileService/login.htm 的记录，找到请求文本，从&sim开始到最后后的内容就是所需要的
     
-    具体内容见下图
-    
-   ![Image Text](https://github.com/QiuYueBaiJXW/UnicomGetCoin/blob/master/Photo/A86CC0F6-E719-47C2-9087-AA428FC88C00.jpeg?raw=true)
-  
-  
   
  #无限期To Do
  
